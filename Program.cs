@@ -12,7 +12,6 @@ while (pod != "p" && pod != "d")
     goto start;
 }*/
 int num = 6;
-
 while (num < 0 || num > 5)
 {
     Console.WriteLine("Scegli un numero tra 0 e 5.");
